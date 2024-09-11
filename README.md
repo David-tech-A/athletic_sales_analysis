@@ -1,4 +1,4 @@
-# Athletic Sales Analysis
+# Athletic Sales Analysis 👗🩰
 
 ## Project Description
 > This project involves analyzing the sales data for an athletic goods retailer. The goal is to gain insights into the sales performance across different regions, states, cities, and retailers, with a focus on women's athletic footwear.
